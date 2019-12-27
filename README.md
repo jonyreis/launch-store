@@ -1,2 +1,7 @@
-# launch-store
-Launchstore foi uma atividade realizada durante o Bootcamp LaunchBase da Rocketseat. 
+# Launchstore
+
+### E-commerce Launchstore.
+
+<h1 align="center">
+    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
+</h1>
