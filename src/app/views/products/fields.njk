@@ -42,7 +42,7 @@
             name="price"
             placeholder="Preço do Produto"
             value="{{ product.price }}"
-            {# faremos uma máscara de dinheiro #}
+            onkeydown="Mask.apply(this, 'formatBRL')"
         >
     </div>
     {% if product.old_price %}
@@ -86,5 +86,4 @@
         </span>
     </div>
 </div>
-
 {% endif %}
