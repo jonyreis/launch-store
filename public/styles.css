@@ -59,7 +59,7 @@ body {
 }
 
 .button.edit:hover {
-    background-color: #009bbd;
+    background-color: #0c68da;
 }
 
 .button.delete:hover {
@@ -208,10 +208,14 @@ form .item span {
     background-color: var(--primary-color);
     border-radius: 16px;
     color: #fff;
-    /* margin-right: 20px; */
-    /* margin-top: 8px; */
+    margin-left: 8px;
+    margin-top: 8px;
     display: inline-block;
     font-weight: bold;
     text-transform: uppercase;
     font-size: 12px;
+}
+
+form .item span input {
+    margin-right: 4px;
 }
